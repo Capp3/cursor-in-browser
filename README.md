@@ -73,6 +73,6 @@ You can replace the **:latest-x64** tag (latest version for AMD processors) by t
 
 A particular thanks to Joe (Sytone) who did the same job for Obsidian that can be found here: https://github.com/sytone/obsidian-remote
 
-### Stars over time :
+ <h3 style="text-align: center;">Stars over time :</p>
 
 [![Stargazers over time](https://starchart.cc/Arfo-du-blo/cursor-in-browser.svg?variant=adaptive)](https://starchart.cc/Arfo-du-blo/cursor-in-browser)
