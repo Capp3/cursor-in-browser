@@ -11,9 +11,7 @@ You can use GitHub Container Registry (ghcr) or **Docker Hub** to download the i
 
 ### **• Maintained by:**
 
-**L'Arfo** 
-
-You can reach me here : arfo_dublo@boards.digital
+**L'Arfo**, you can reach me here : arfo_dublo@boards.digital
 
 ### **• Where to get the image:**
 
