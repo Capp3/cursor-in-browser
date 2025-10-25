@@ -42,7 +42,7 @@ docker run -d \
       -p 8050:8080 \
       -e CUSTOM_USER=cursor_user \
       -e PASSWORD=cursor_password \
-ghcr.io/arfodublo/cursor-in-browser:latest-x64
+ghcr.io/arfo-du-blo/cursor-in-browser:latest-x64
 ```
 
 You can replace the **:latest-x64** tag (latest version for AMD processors) by the version and architecture you need (for example replace :latest-x64 by :latest-arm64 if working on ARM CPU or :1.2.3-x64 / :1.2.3-arm64 if you need a specific version).
