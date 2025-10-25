@@ -15,13 +15,9 @@ L'Arfo, you can reach me here : arfo_dublo@boards.digital
 
 ### **• Where to get the image:**
 
-**Docker Hub :**
+**Docker Hub :** https://hub.docker.com/r/arfodublo/cursor-in-browser
 
-https://hub.docker.com/r/arfodublo/cursor-in-browser
-
-**GitHub Container Registry (ghcr) :**
-
-https://ghcr.io/arfo-du-blo/cursor-in-browser
+**GitHub Container Registry (ghcr) :** https://ghcr.io/arfo-du-blo/cursor-in-browser
 
 ### **• Quick run :** 
 
