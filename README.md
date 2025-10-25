@@ -11,13 +11,15 @@ You can use GitHub Container Registry (ghcr) or **Docker Hub** to download the i
 
 ### **• Maintained by:**
 
-L'Arfo, you can reach me here : arfo_dublo@boards.digital
+**L'Arfo** 
+
+You can reach me here : arfo_dublo@boards.digital
 
 ### **• Where to get the image:**
 
-**Docker Hub :** https://hub.docker.com/r/arfodublo/cursor-in-browser
+Docker Hub : https://hub.docker.com/r/arfodublo/cursor-in-browser
 
-**GitHub Container Registry (ghcr) :** https://ghcr.io/arfo-du-blo/cursor-in-browser
+GitHub Container Registry (ghcr) : https://ghcr.io/arfo-du-blo/cursor-in-browser
 
 ### **• Quick run :** 
 
