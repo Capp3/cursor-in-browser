@@ -72,3 +72,7 @@ You can replace the **:latest-x64** tag (latest version for AMD processors) by t
 ### More details about the image here: https://hub.docker.com/r/arfodublo/cursor-in-browser
 
 A particular thanks to Joe (Sytone) who did the same job for Obsidian that can be found here: https://github.com/sytone/obsidian-remote
+
+### Stars over time :
+
+[![Stargazers over time](https://starchart.cc/Arfo-du-blo/cursor-in-browser.svg?variant=adaptive)](https://starchart.cc/Arfo-du-blo/cursor-in-browser)
