@@ -1,0 +1,21 @@
+name: cursor-in-browser
+
+services:
+  cursor-in-browser:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${cursor-http-port:-8080}:8080"
+      - "${cursor-https-port:-8443}:8443"
+    environment:
+      - CUSTOM_PORT=${cursor-http-port:-8080}
+      - CUSTOM_HTTPS_PORT=${cursor-https-port:-8443}
+      - CUSTOM_USER=${cursor-user:-cursor}
+      - PASSWORD=${cursor-password:-password}
+      - SUBFOLDER=${cursor-subfolder:-}
+      - TITLE=${cursor-title:-Cursor in browser}
+      - FM_HOME=${cursor-fm-home:-/cursor}
+    volumes:
+      - "${cursor-data-dir:-/cursor}:./cursor"
+      - "${config-dir:-/config}:./config"
